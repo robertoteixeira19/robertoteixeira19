@@ -8,11 +8,9 @@ Sou **Mecânico Industrial** com formação técnica em **Eletromecânica** e es
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://img.shields.io" alt="Python" />
-  <img src="https://img.shields.io" alt="Git" />
-  <img src="https://img.shields.io" alt="GitHub" />
-</div>
+![Python](https://img.shields.io)
+![Git](https://img.shields.io)
+![GitHub](https://img.shields.io)
 
 ### 🚀 Minha Trajetória
 - 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas (ADS) - Estácio de Sá.
@@ -23,8 +21,8 @@ Sou **Mecânico Industrial** com formação técnica em **Eletromecânica** e es
 
 ### 📫 Vamos nos conectar?
 
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io" alt="LinkedIn"></a>
-<a href="mailto:roberto.tec95@gmail.com"><img src="https://img.shields.io" alt="E-mail"></a>
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+[![E-mail](https://img.shields.io)](mailto:roberto.tec95@gmail.com)
 
 ---
 *"A precisão da mecânica aplicada à eficiência do código."*
