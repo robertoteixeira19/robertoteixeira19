@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Roberto Teixeira! 👋
 
-<!--
-**robertoteixeira19/robertoteixeira19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Do Hardware ao Software | 💻 Estudante de ADS na Estácio de Sá
 
-Here are some ideas to get you started:
+Sou **Mecânico Industrial** com formação técnica em **Eletromecânica** e estou migrando para a área de Tecnologia. Minha base industrial me deu disciplina e raciocínio lógico, que agora aplico no desenvolvimento de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Minhas Tecnologias e Ferramentas
+
+![Python](https://img.shields.io)
+![Git](https://img.shields.io)
+![GitHub](https://img.shields.io)
+
+### 🚀 Minha Trajetória
+- 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas (ADS) - Estácio de Sá.
+- 🔧 **Background:** Manutenção industrial, sistemas eletromecânicos e automação.
+- 🎯 **Foco Atual:** Lógica de programação, manipulação de dados e Python.
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/roberto-teixeira-73299622a/)
+[![E-mail](https://img.shields.io)](mailto:roberto.tec95@gmail.com)
+
+---
+*"A precisão da mecânica aplicada à eficiência do código."*
